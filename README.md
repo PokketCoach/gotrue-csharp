@@ -1,13 +1,3 @@
-## Why this fork exists
-
-Supabase Auth API has introduced changes that are not yet reflected in the upstream
-`gotrue-csharp` package. This fork updates affected endpoints and models to maintain
-compatibility.
-
-The intention is to remove this fork once changes are available upstream.
-
---
-
 <p align="center">
 <img width="300" src=".github/supabase-gotrue.png"/>
 </p>
